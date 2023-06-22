@@ -59,7 +59,7 @@ function desenharCartela(nome, cartela) {
     cartelaContainer.appendChild(nomeJogadorElement);
 
     var tabela = document.createElement('table');
-    tabela.id = nome; 
+    tabela.id = nome;
 
     var thead = document.createElement('thead');
 
